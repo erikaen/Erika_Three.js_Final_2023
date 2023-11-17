@@ -1,0 +1,22 @@
+html, body {
+  overflow: hidden;
+  -webkit-overflow-scrolling: auto;
+  position: fixed;
+  margin: 0; /* Remove default margin to ensure full-screen canvas */
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  touch-action: pan-left, pan-right, pan-up, pan-down;
+  margin: 0; /* Remove default margin to ensure full-screen canvas */
+}
+
+body canvas {
+  width: 100%; /* Set the canvas width to 100% of its container */
+  height: 100%; /* Set the canvas height to 100% of its container */
+  clip-path: circle(calc(50% - 1px));
+}
