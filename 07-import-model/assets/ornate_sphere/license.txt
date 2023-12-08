@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ornate sphere
+* source:	https://sketchfab.com/3d-models/ornate-sphere-ee0076ac66a541dd904dadeadd673691
+* author:	Pizzaz (https://sketchfab.com/pizzaz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ornate sphere" (https://sketchfab.com/3d-models/ornate-sphere-ee0076ac66a541dd904dadeadd673691) by Pizzaz (https://sketchfab.com/pizzaz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
